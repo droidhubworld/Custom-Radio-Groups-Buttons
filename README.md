@@ -1,4 +1,4 @@
-# Custom-Radio-Groups-Radio-Buttons
+# Custom-Radio-Groups-Buttons
 Creating Custom Radio Groups &amp; Radio Buttons in Android
 
 ### Screens
